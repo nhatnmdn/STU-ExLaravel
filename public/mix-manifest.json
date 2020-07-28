@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/products/delete.js": "/js/products/delete.js",
+    "/js/products/get_product.js": "/js/products/get_product.js",
+    "/js/products/list.js": "/js/products/list.js",
+    "/js/products/store.js": "/js/products/store.js",
+    "/js/products/update.js": "/js/products/update.js"
+}
